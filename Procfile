@@ -1,0 +1,1 @@
+web: gunicorn pharis.wsgi --log-file
